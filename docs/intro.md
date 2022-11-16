@@ -1,4 +1,6 @@
 ---
+slug: /
+title: My Knowledge Wiki
 sidebar_position: 1
 ---
 
