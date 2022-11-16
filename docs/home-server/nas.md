@@ -7,3 +7,5 @@
 ## Links
 
 - [[Guide] NAS Killer 5.0](https://forums.serverbuilds.net/t/guide-nas-killer-5-0/3072)
+- [Building a Budget Homelab NAS Server (2022 Edition)](https://mtlynch.io/budget-nas/)
+- 
