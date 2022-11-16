@@ -10,7 +10,7 @@ const config = {
   tagline: 'Because my first one is full.',
   url: 'https://magenta-cobbler-3682ae.netlify.app/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
