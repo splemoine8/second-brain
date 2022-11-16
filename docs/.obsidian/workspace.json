@@ -142,18 +142,18 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "21f9a7310717f7a3",
   "lastOpenFiles": [
     "home-server/home-server.md",
     "home-server/nas.md",
-    "intro.md",
-    "hello.md"
+    "hello.md",
+    "intro.md"
   ]
 }
