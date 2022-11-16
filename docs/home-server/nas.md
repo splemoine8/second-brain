@@ -1,5 +1,7 @@
 # Network Attached Storage
 
+![Nas image](https://cdn.mos.cms.futurecdn.net/qc9Ua9r8zzxwcvP9G2pYh6-1920-80.jpg.webp)
+
 ## Notes
 
 ## Links
