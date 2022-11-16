@@ -4,6 +4,12 @@
 
 ## Notes
 
+## Components
+### Operating System
+- [Promox](https://www.proxmox.com/en/): a hypervisor that I don't know too much about, but I know it is powerful.
+- [TrueNAS](https://www.truenas.com): *More info to come*
+- [OpenMediaVault](https://www.openmediavault.org): *More info to come*
+
 ## Links
 
 - [[Guide] NAS Killer 5.0](https://forums.serverbuilds.net/t/guide-nas-killer-5-0/3072)
