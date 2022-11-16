@@ -1,4 +1,4 @@
-# Network Attached Storage
+# Home Server
 
 ## Notes
 
