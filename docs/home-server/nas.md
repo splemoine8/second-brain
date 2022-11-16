@@ -3,7 +3,7 @@
 ![Nas image](https://cdn.mos.cms.futurecdn.net/qc9Ua9r8zzxwcvP9G2pYh6-1920-80.jpg.webp)
 
 ## Notes
-- While some believe that NAS systems should be built as standalone hardware, many are integrating them into their [home server](docs/home-server).
+- While some believe that NAS systems should be built as standalone hardware, many are integrating them into their [home server.](home-server)
 
 ## Components
 ### Operating System
