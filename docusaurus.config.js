@@ -9,7 +9,7 @@ const config = {
   title: 'Second Brain',
   tagline: 'Because my first one is full.',
   url: 'https://magenta-cobbler-3682ae.netlify.app/',
-  baseUrl: '/docs/intro/ ',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -36,10 +36,7 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          blog: false,
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        blog: false,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
