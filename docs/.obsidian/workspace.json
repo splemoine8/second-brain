@@ -11,9 +11,17 @@
             "id": "ea0889b9a33c173d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c25acbdfcc89daab",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "home-server/nas.md",
+                "file": "apps/raindrop.io.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home-server/nas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home-server/nas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "home-server/nas.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -136,11 +140,14 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ea0889b9a33c173d",
+  "active": "3208006e41a35478",
   "lastOpenFiles": [
-    "home-server/home-server.md",
     "home-server/nas.md",
+    "2022-11-16.md",
     "intro.md",
+    "apps/apps.md",
+    "apps/raindrop.io.md",
+    "home-server/home-server.md",
     "docs/home-server.md",
     "hello.md"
   ]
