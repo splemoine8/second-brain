@@ -1,1 +1,3 @@
-![Beef Stew](static/img/beef-stew.jpg)
+# Beef Stew
+
+![Beef Stew](/img/beef-stew.jpg)
