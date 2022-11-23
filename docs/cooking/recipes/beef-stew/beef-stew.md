@@ -1,0 +1,2 @@
+![Beef Stew].(/static/img/beef-stew.jpg).
+

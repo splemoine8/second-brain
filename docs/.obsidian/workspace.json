@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ESG/ESG.md",
+                "file": "home-server/nas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad254d9354a48daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home-server/my-build.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00462c67ab8e6dac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cooking/recipes/beef-stew/beef-stew.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESG/ESG.md",
+                "file": "cooking/recipes/beef-stew/beef-stew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ESG/ESG.md",
+                "file": "cooking/recipes/beef-stew/beef-stew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESG/ESG.md"
+                "file": "cooking/recipes/beef-stew/beef-stew.md"
               }
             }
           }
@@ -185,17 +209,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "af67ffef9a0033bd",
+  "active": "00462c67ab8e6dac",
   "lastOpenFiles": [
+    "home-server/nas.md",
+    "home-server/my-build.md",
+    "home-server/home-server.md",
+    "cooking/recipes/beef-stew/beef-stew.md",
+    "ESG/ESG.md",
     "ESG/governance/governance.md",
     "ESG/environmental/environmental.md",
     "apps/apps.md",
-    "ESG/ESG.md",
     "intro.md",
-    "apps/raindrop.io.md",
-    "Matter/NASA’s Long-Awaited Return to the Moon Has Finally Begun.md",
-    "home-server/nas.md",
-    "2022-11-16.md",
-    "home-server/home-server.md"
+    "apps/raindrop.io.md"
   ]
 }
